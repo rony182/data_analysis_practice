@@ -6,16 +6,14 @@ The data set analyzed in this project is a comprehensive collection of football 
 
 The purpose of writing this software was to apply data analysis techniques to real-world datasets, enhancing my skills in data manipulation, visualization, and interpretation. This project serves as a practical application of my programming abilities and helps me understand the quantitative aspects that influence player valuations and team performances in professional football.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=8cHxe90TfDA)
 
 # Data Analysis Results
 
-## Which players have shown the most improvement over the last season?
+* Which players have shown the most improvement over the last season?
 - I found that players like Mauro Icardi and Santiago Gimenez showed significant improvements in goals scored from the previous season.
 ## How do changes in performance metrics correlate with market value changes? 
-- There was a moderate correlation, suggesting that improvements in performance metrics like goals and assists are positively associated with increases in player market values.
+* There was a moderate correlation, suggesting that improvements in performance metrics like goals and assists are positively associated with increases in player market values.
 
 # Development Environment
 
@@ -26,7 +24,6 @@ The purpose of writing this software was to apply data analysis techniques to re
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Pandas](https://pandas.pydata.org/docs/)
 * [Matplotlib](https://matplotlib.org/stable/index.html)
 * [Kaggle](https://www.kaggle.com/)
@@ -34,7 +31,6 @@ The purpose of writing this software was to apply data analysis techniques to re
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Expand the Dataset: Incorporate additional seasons and leagues to provide a more comprehensive analysis
 * Refine the Analysis: Implement advanced statistical methods to better understand the factors influencing market value changes.
 * User Interface: Develop a user-friendly interface to allow non-technical users to interact with the data and generate custom reports.
