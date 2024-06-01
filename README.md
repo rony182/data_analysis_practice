@@ -10,10 +10,10 @@ The purpose of writing this software was to apply data analysis techniques to re
 
 # Data Analysis Results
 
-* Which players have shown the most improvement over the last season?
+### Which players have shown the most improvement over the last season?
 - I found that players like Mauro Icardi and Santiago Gimenez showed significant improvements in goals scored from the previous season.
-## How do changes in performance metrics correlate with market value changes? 
-* There was a moderate correlation, suggesting that improvements in performance metrics like goals and assists are positively associated with increases in player market values.
+### How do changes in performance metrics correlate with market value changes? 
+- There was a moderate correlation, suggesting that improvements in performance metrics like goals and assists are positively associated with increases in player market values.
 
 # Development Environment
 
