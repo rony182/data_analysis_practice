@@ -1,0 +1,8 @@
+data_analysis/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.csv
+data/
+Thumbs.db
+.vscode/
